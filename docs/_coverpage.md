@@ -4,6 +4,6 @@
 
 > Tiny Optical Character Recognition Software (EPITA S3) 
 
-[Docs](#home.md) [GitHub repository](https://github.com/gastbob40/JustReadIT/)
+[Docs](home.md#justreadit) [GitHub repository](https://github.com/gastbob40/JustReadIT/)
 
 ![](_media/bg.jpg)
