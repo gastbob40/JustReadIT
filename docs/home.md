@@ -1,5 +1,10 @@
 #  JustReadIT
 
+![epita](https://img.shields.io/badge/EPITA-project-brightgreen)
+![S3](https://img.shields.io/badge/Semester-S3-important)
+![C](https://img.shields.io/badge/Language-C-blueviolet)
+![C version](https://img.shields.io/badge/Version-c99-informational)
+
 JustReadIT is a text recognition tool developed as part of EPITA's 3rd semester project. 
 The project specifications can be found [here](documents.md#specifications).
 
@@ -13,7 +18,7 @@ This software allows you to extract a text from an image. It has 4 processes all
 
 - Saves the letters of the text separately to be able to start learning the neural network.
 
-
+Go [here](getting_started.md#getting-started) to follow the steps for the installation of the project.
 
 ## Screenshots
 
