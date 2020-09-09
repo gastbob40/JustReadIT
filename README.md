@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your mac
 - Download the project from github
 
 ```
-$ git clone https://github.com/RotDams/JustReadIT
+$ git clone https://github.com/gastbob40/JustReadIT
 ```
 
 - Go in the created folder, make and run
