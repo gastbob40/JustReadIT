@@ -1,3 +1,3 @@
 - [JustReadIT](home.md)
-- [Getting Started](getting_started``.md)
+- [Getting Started](getting_started.md)
 - [Documents](documents.md)
