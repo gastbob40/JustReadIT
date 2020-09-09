@@ -31,3 +31,5 @@ $ make
 ```
 
 - A `JustReadIT.exe` executable should be created.
+
+Go [here](using_justreadit.md#using-justreadit) to see how to launch the application.

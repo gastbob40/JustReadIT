@@ -1,3 +1,4 @@
 - [JustReadIT](home.md)
 - [Getting Started](getting_started.md)
+- [Using JustReadIT](using_justreadit.md)
 - [Documents](documents.md)
